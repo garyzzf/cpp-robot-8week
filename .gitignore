@@ -1,0 +1,10 @@
+# 编译产物
+*.exe
+*.out
+*.o
+day*
+
+# VS Code 设置
+.vscode/
+build/
+debug/

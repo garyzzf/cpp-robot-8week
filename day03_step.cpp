@@ -10,7 +10,7 @@ int main() {
             continue;
         }
         double rad = deg * M_PI / 180.0;
-        std::cout << "角度=" << std::setw(3) << deg
+        std::cout << "角度=" << deg
                   << "°  弧度=" << rad << '\n';
     }
     return 0;

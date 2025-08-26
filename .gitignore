@@ -2,7 +2,7 @@
 *.exe
 *.out
 *.o
-day* 
+/day* 
 
 
 # VS Code 设置
